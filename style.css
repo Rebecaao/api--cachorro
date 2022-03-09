@@ -1,0 +1,11 @@
+#imagem-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 20px;
+}
+
+#imagem-container img{
+    height: 300px;
+   
+}
